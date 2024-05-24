@@ -14,6 +14,6 @@ ExpandableText component extra credit.
 
 // Last updated 5/23/24
 
-// Peer Review by: 
+// Peer Review by: Neo See
 
-// Comments: 
+// Comments: Code works. I like the validation for the cheese topping and the use on the ternary operator
